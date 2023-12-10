@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
             fit: BoxFit.contain,
           ),
           Text(
-            // Positional paremeter
+            // Positional parameter
             'Flutter',
             // Named parameter
             style: TextStyle(
